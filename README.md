@@ -1,24 +1,31 @@
-# README
+# Homest
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an app that grants home buyers their wishes.
 
-Things you may want to cover:
+## Installation 
+- Git clone ,then bundle install (use bundle install --prefix client for the frontend) this will install the required dependancies . Open up the server by running `rails s` and using `npm start --prefix client` this open up on different ports (  localhost:3000 and localhost:4000 ) .
 
-* Ruby version
+## Requirements 
+- For this project to run on your local machine you need to have ;
+1.Ruby version 2.7
+2.React 16
+- Use `nvm` to check which version you have.
 
-* System dependencies
+## Key features 
+- Realtors Page 
+This is the page where realtors receive the orders from the buyers on what they want .Here the realtor can respond to a request ,edit a request and also decline a request by deleting a request.
 
-* Configuration
+- Homebuyers page 
+This is the page where homebuyers can request and get their wishes granted by realtors. 
 
-* Database creation
+- Login/SignUp 
+This is the page where we get to know if youre a homebuyer or a relator.
 
-* Database initialization
+## Done by
+- Shai9
+- Francis20
+- Cater20
+- Wilbright.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Contacts
+- calmusdennis254@gmail.com
