@@ -7,7 +7,8 @@ This is an app that grants home buyers their wishes.
 
 ## Requirements 
 - For this project to run on your local machine you need to have ;
-1.Ruby version 2.7 and React 16
+  -  Ruby version 2.7 
+  -  React 16
 - Use `nvm` to check which version you have.
 
 ## Key features 
