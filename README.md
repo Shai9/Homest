@@ -7,19 +7,18 @@ This is an app that grants home buyers their wishes.
 
 ## Requirements 
 - For this project to run on your local machine you need to have ;
-1.Ruby version 2.7
-2.React 16
+1.Ruby version 2.7 and React 16
 - Use `nvm` to check which version you have.
 
 ## Key features 
 - Realtors Page 
-This is the page where realtors receive the orders from the buyers on what they want .Here the realtor can respond to a request ,edit a request and also decline a request by deleting a request.
+  - This is the page where realtors receive the orders from the buyers on what they want .Here the realtor can respond to a request ,edit a request and also decline a     request by deleting a request.
 
 - Homebuyers page 
-This is the page where homebuyers can request and get their wishes granted by realtors. 
+  - This is the page where homebuyers can request and get their wishes granted by realtors. 
 
 - Login/SignUp 
-This is the page where we get to know if youre a homebuyer or a relator.
+  - This is the page where we get to know if youre a homebuyer or a relator.
 
 ## Done by
 - Shai9
